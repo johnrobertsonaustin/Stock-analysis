@@ -1,4 +1,4 @@
-#**_Refactoring VBA Code for Performance Enhancement_**
+# **_Refactoring VBA Code for Performance Enhancement_**
 
 ## **Overview of the Project**
 
@@ -7,17 +7,17 @@
 ## **Results**
 
 ### Original 2017
-![2017 OG]https://github.com/johnrobertsonaustin/Stock-analysis
+
 ### Refactored 2017
-https://github.com/johnrobertsonaustin/Stock-analysis
+
 ### Original 2018
-https://github.com/johnrobertsonaustin/Stock-analysis
+
 ### Refactored 2018 
-https://github.com/johnrobertsonaustin/Stock-analysis
+
 
 ### As you can clearly see from the images above, stock performances were substantially better in 2017 compared to 2018. In the process of refactoring the code we did not change the outcomes of the stock’s performance; however, we did significantly reduce the time it took to return the values in both the 2017 and 2018 runs.
-## 
-**Summary**
+
+## **Summary**
 
 ### In refactoring the Stocks Analysis workbook, I have come to the following conclusions:
 1)	The advantages of refactoring code are to make it not only more efficient and use less memory, but to also make it easier to interpret should you need to access it again at a later time. The disadvantages could include inadvertently leaving out, for the sake of efficiency, what seems like innocuous pieces of code that turn out to be critical to the original intent.
