@@ -7,7 +7,7 @@
 ## **Results**
 
 ### Original 2017
-!(Resources/2017 OG.png)
+(Resources/2017 OG.png)
 ### Refactored 2017
 
 ### Original 2018
