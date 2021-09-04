@@ -9,7 +9,7 @@
 ### Original 2017
 (Resources/2017 OG.png)
 ### Refactored 2017
-!https://github.com/johnrobertsonaustin/Stock-analysis/blob/c8aa4c7740d65ed500cc47e80e55260c12bf7d56/Resources/2017%20Refactored.png
+![2017 Refactored](https://github.com/johnrobertsonaustin/Stock-analysis/blob/c8aa4c7740d65ed500cc47e80e55260c12bf7d56/Resources/2017%20Refactored.png)
 ### Original 2018
 
 ### Refactored 2018 
