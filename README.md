@@ -7,7 +7,7 @@
 ## **Results**
 
 ### Original 2017
-https://github.com/johnrobertsonaustin/Stock-analysis
+![2017 OG]https://github.com/johnrobertsonaustin/Stock-analysis
 ### Refactored 2017
 https://github.com/johnrobertsonaustin/Stock-analysis
 ### Original 2018
