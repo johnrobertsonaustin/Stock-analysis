@@ -7,7 +7,7 @@
 ## **Results**
 
 ### Original 2017
-![2017 OG](Resources/2017 OG.png)
+![2017 OG](https://github.com/johnrobertsonaustin/Stock-analysis/blob/6283c6167e070fa40cfcd5c33db07a143f044813/Resources/2017%20OG.png)
 ### Refactored 2017
 ![2017 Refactored](https://github.com/johnrobertsonaustin/Stock-analysis/blob/c8aa4c7740d65ed500cc47e80e55260c12bf7d56/Resources/2017%20Refactored.png)
 ### Original 2018
